@@ -3,6 +3,9 @@ target/
 *.jar
 *.war
 
+# Environment variables
+.env
+
 # IDE files
 .idea/
 *.iml
